@@ -8,4 +8,4 @@ aesd-build
 test.sh.log
 *.swp
 *.ssh
-
+*.fuse_hidden*
